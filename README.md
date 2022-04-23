@@ -1,5 +1,5 @@
-![Yui-Chan](https://telegra.ph/file/69a84b4548087b06afef4.jpg)
-# Yui-Chan bot 
+![Ayano-Chan](https://te.legra.ph/file/cd781098a6f080b1157a9.jpg)
+# Ayano-Chan bot 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6141417ceaf84545bab6bd671503df51)](https://app.codacy.com/gh/AnimeKaizoku/SaitamaRobot?utm_source=github.com&utm_medium=referral&utm_content=AnimeKaizoku/SaitamaRobot&utm_campaign=Badge_Grade_Settings)  [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://perso.crans.org/besson/LICENSE.html) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://makeapullrequest.com)
 
 
@@ -7,14 +7,14 @@ A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
 Originally a Marie fork, Saitama evolved further and was built to be more robust and more dedicated to Anime Chats. 
 
-Can be found on telegram as [Yui-Chan bot](https://t.me/yuiichanbot).
+Can be found on telegram as [Ayano-Chan bot](https://t.me/Ayano_Robot).
 
-The Support group can be reached out to at [YuiChanClub](https://t.me/yuiichansupport), where you can ask for help about @yuiichanbot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
+The Support group can be reached out to at [AyanoClub](https://t.me/AyanoClub), where you can ask for help about @Ayano_Robot, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
 ## How to setup/deploy.
 
 ### Read these notes carefully before proceeding 
- - Edit any mentions of @yuiichansupport to your own support chat. 
+ - Edit any mentions of @Ayano_Robot to your own support chat. 
  - We do not support forks, once you fork the bot and deploy the headache of bugs and support is your own, please do not come to our support chat asking technical help.
  - Your code must be open source and a link to your fork's repository must be there in the start reply of the bot.
  - If you come to our support chat on Telegram asking help about a "fork" or a technical issue with a module, you will end up getting ignored or banned. 
